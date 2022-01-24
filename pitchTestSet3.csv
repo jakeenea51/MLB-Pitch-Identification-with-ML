@@ -1,0 +1,306 @@
+Pitcher,Pitch Type,Pitch Vel (MPH),VBreak (In.),HBreak (In.)
+ Michael Fulmer,Slider,91.4,28,4
+ Michael Fulmer,Changeup,87.7,28,17
+ Michael Fulmer,Slider,90.3,28,2
+ Michael Fulmer,Slider,91.1,27,6
+ Michael Fulmer,Sinker,95,17,11
+ Gregory Soto,Sinker,98,18,17
+ Gregory Soto,Sinker,98.4,17,16
+ Gregory Soto,Sinker,96.2,20,15
+ Gregory Soto,Sinker,98.2,16,15
+ Gregory Soto,Slider,88.6,28,1
+ Gregory Soto,Slider,86.2,36,1
+ Gregory Soto,Sinker,98.4,17,19
+ Gregory Soto,Slider,88.9,29,1
+ Gregory Soto,Slider,87.1,30,1
+ Gregory Soto,Slider,87.7,31,2
+ Gregory Soto,Sinker,97.1,15,19
+ Gregory Soto,Sinker,98.7,12,18
+ Gregory Soto,Sinker,96.7,14,19
+ Gregory Soto,Sinker,99.6,16,21
+ Gregory Soto,Sinker,98,18,20
+ Gregory Soto,Sinker,98,13,21
+ Gregory Soto,Sinker,99.7,16,15
+ Gregory Soto,Sinker,98.9,16,17
+ Kris Bubic,4-Seam Fastball,89.9,20,5
+ Kris Bubic,4-Seam Fastball,92.5,21,10
+ Kris Bubic,4-Seam Fastball,92.3,16,10
+ Kris Bubic,Changeup,81.2,36,12
+ Kris Bubic,4-Seam Fastball,91.8,15,6
+ Kris Bubic,Curveball,79.3,55,4
+ Kris Bubic,4-Seam Fastball,94.1,13,6
+ Kris Bubic,4-Seam Fastball,90.5,18,10
+ Kris Bubic,4-Seam Fastball,92.6,15,5
+ Kris Bubic,Changeup,80,32,14
+ Kris Bubic,Changeup,80.3,37,6
+ Kris Bubic,Curveball,78.3,62,9
+ Kris Bubic,4-Seam Fastball,90.5,18,8
+ Kris Bubic,4-Seam Fastball,89.8,20,4
+ Kris Bubic,Changeup,80.2,30,12
+ Kris Bubic,Changeup,79.8,35,14
+ Kris Bubic,4-Seam Fastball,88.2,22,9
+ Kris Bubic,4-Seam Fastball,87.5,21,8
+ Kris Bubic,Changeup,78.4,38,14
+ Kris Bubic,4-Seam Fastball,89.2,19,7
+ Kris Bubic,Changeup,79.6,35,12
+ Jose Cisnero,Slider,88.2,31,4
+ Jose Cisnero,4-Seam Fastball,97.2,14,10
+ Jose Cisnero,4-Seam Fastball,96.8,13,8
+ Jose Cisnero,Slider,87,33,6
+ Jose Cisnero,4-Seam Fastball,97,15,9
+ Jose Cisnero,4-Seam Fastball,96.8,12,8
+ Jose Cisnero,4-Seam Fastball,97.3,15,13
+ Jose Cisnero,4-Seam Fastball,96.3,13,11
+ Jose Cisnero,Slider,86.5,34,5
+ Jose Cisnero,4-Seam Fastball,96.2,16,11
+ Tyler Alexander,Changeup,83.8,31,9
+ Tyler Alexander,Slider,85,37,5
+ Tyler Alexander,Sinker,92.6,19,17
+ Tyler Alexander,4-Seam Fastball,92.3,16,9
+ Tyler Alexander,Cutter,87.4,25,2
+ Tyler Alexander,Cutter,85.7,32,5
+ Tyler Alexander,Sinker,91.8,15,16
+ Tyler Alexander,Cutter,85,34,5
+ Tyler Alexander,Changeup,83.6,37,15
+ Tyler Alexander,Changeup,84.6,35,14
+ Tyler Alexander,Sinker,91.1,19,15
+ Kris Bubic,Changeup,78.5,41,17
+ Kris Bubic,4-Seam Fastball,91,16,10
+ Kris Bubic,4-Seam Fastball,89.4,19,6
+ Kris Bubic,Changeup,79.4,36,10
+ Kris Bubic,4-Seam Fastball,89.2,18,5
+ Kris Bubic,4-Seam Fastball,89.5,19,7
+ Kris Bubic,4-Seam Fastball,90.9,17,5
+ Kris Bubic,Changeup,78.3,42,13
+ Kris Bubic,Changeup,80.3,37,12
+ Kris Bubic,4-Seam Fastball,91.7,14,8
+ Kris Bubic,Curveball,78.6,61,9
+ Kris Bubic,Curveball,79.2,61,7
+ Kris Bubic,4-Seam Fastball,92,18,8
+ Kris Bubic,4-Seam Fastball,91.3,15,9
+ Kris Bubic,4-Seam Fastball,89.6,13,7
+ Alex Lange,4-Seam Fastball,96.9,12,12
+ Alex Lange,Slider,83.7,51,10
+ Alex Lange,Slider,85.1,45,2
+ Alex Lange,Slider,84.4,50,4
+ Alex Lange,Slider,83.9,51,3
+ Alex Lange,4-Seam Fastball,95.5,10,14
+ Alex Lange,4-Seam Fastball,95.2,12,11
+ Alex Lange,Slider,82.8,49,8
+ Alex Lange,Slider,83.2,43,5
+ Alex Lange,4-Seam Fastball,94.8,9,16
+ Spencer Turnbull,4-Seam Fastball,94.6,20,4
+ Spencer Turnbull,Curveball,81.8,54,10
+ Spencer Turnbull,Sinker,95.5,21,14
+ Spencer Turnbull,Changeup,85.4,33,15
+ Spencer Turnbull,Slider,85.5,38,7
+ Spencer Turnbull,Sinker,95.1,27,16
+ Spencer Turnbull,Sinker,94.7,25,18
+ Spencer Turnbull,Slider,84.6,39,6
+ Spencer Turnbull,Slider,83.7,42,7
+ Spencer Turnbull,Slider,84,42,8
+ Kris Bubic,4-Seam Fastball,91.4,13,5
+ Kris Bubic,4-Seam Fastball,89.7,16,5
+ Kris Bubic,4-Seam Fastball,89.8,17,6
+ Kris Bubic,4-Seam Fastball,89.3,15,7
+ Kris Bubic,Changeup,79.3,32,16
+ Kris Bubic,4-Seam Fastball,91.3,15,7
+ Kris Bubic,Curveball,78.2,61,7
+ Kris Bubic,4-Seam Fastball,90.6,16,6
+ Kris Bubic,Changeup,80.6,31,15
+ Kris Bubic,Changeup,80,32,17
+ Kris Bubic,Curveball,78.5,58,8
+ Kris Bubic,4-Seam Fastball,90.1,18,2
+ Spencer Turnbull,4-Seam Fastball,95.7,18,4
+ Spencer Turnbull,Sinker,96.4,21,20
+ Spencer Turnbull,Slider,86.9,36,6
+ Spencer Turnbull,Slider,84.7,38,6
+ Spencer Turnbull,Slider,87,32,4
+ Spencer Turnbull,Slider,86.5,37,4
+ Spencer Turnbull,Curveball,81.8,51,7
+ Spencer Turnbull,4-Seam Fastball,94.9,17,4
+ Spencer Turnbull,4-Seam Fastball,93.6,22,1
+ Spencer Turnbull,Changeup,87.4,38,18
+ Spencer Turnbull,Cutter,92,21,0
+ Spencer Turnbull,Curveball,80.1,56,14
+ Spencer Turnbull,Slider,85.1,38,8
+ Spencer Turnbull,Slider,85.3,36,7
+ Spencer Turnbull,Sinker,95,25,21
+ Spencer Turnbull,Slider,86.1,34,5
+ Spencer Turnbull,4-Seam Fastball,93.6,18,4
+ Spencer Turnbull,Sinker,94.7,23,16
+ Spencer Turnbull,Slider,85.5,34,3
+ Spencer Turnbull,Sinker,93.7,20,15
+ Kris Bubic,Changeup,80.3,36,7
+ Kris Bubic,Curveball,78.2,59,10
+ Kris Bubic,Changeup,80.2,33,9
+ Kris Bubic,4-Seam Fastball,91.4,17,2
+ Kris Bubic,4-Seam Fastball,88.3,21,1
+ Kris Bubic,4-Seam Fastball,88.7,21,5
+ Kris Bubic,4-Seam Fastball,90.6,18,5
+ Kris Bubic,Changeup,80.5,30,15
+ Kris Bubic,4-Seam Fastball,92.3,17,3
+ Kris Bubic,4-Seam Fastball,89.4,17,7
+ Kris Bubic,Changeup,80,36,17
+ Kris Bubic,Changeup,79.7,40,13
+ Kris Bubic,4-Seam Fastball,91,15,5
+ Spencer Turnbull,4-Seam Fastball,94.7,18,6
+ Spencer Turnbull,Curveball,78.8,56,11
+ Spencer Turnbull,Curveball,81.8,53,11
+ Spencer Turnbull,4-Seam Fastball,96,18,4
+ Spencer Turnbull,4-Seam Fastball,95.1,15,3
+ Spencer Turnbull,Slider,86,34,6
+ Spencer Turnbull,Changeup,86.3,38,17
+ Spencer Turnbull,4-Seam Fastball,93,21,3
+ Spencer Turnbull,4-Seam Fastball,94.7,13,11
+ Spencer Turnbull,Sinker,92.4,25,14
+ Kris Bubic,Changeup,80.2,37,13
+ Kris Bubic,4-Seam Fastball,93.1,15,8
+ Kris Bubic,4-Seam Fastball,92.3,15,8
+ Kris Bubic,Changeup,79.9,32,14
+ Kris Bubic,4-Seam Fastball,91.2,20,5
+ Kris Bubic,4-Seam Fastball,88.8,21,9
+ Kris Bubic,4-Seam Fastball,91.4,16,6
+ Kris Bubic,Changeup,79.6,36,12
+ Kris Bubic,Changeup,80.8,29,14
+ Kris Bubic,4-Seam Fastball,94.4,11,5
+ Kris Bubic,4-Seam Fastball,91.1,16,4
+ Kris Bubic,4-Seam Fastball,93.4,14,5
+ Kris Bubic,4-Seam Fastball,91.7,14,4
+ Kris Bubic,Changeup,80.4,34,16
+ Kris Bubic,4-Seam Fastball,90.1,16,5
+ Kris Bubic,Changeup,80.6,38,14
+ Kris Bubic,4-Seam Fastball,91.4,17,4
+ Kris Bubic,Curveball,77.3,61,3
+ Kris Bubic,4-Seam Fastball,91.9,14,8
+ Spencer Turnbull,Slider,86,41,7
+ Spencer Turnbull,Slider,85.3,42,7
+ Spencer Turnbull,Sinker,96.9,19,17
+ Spencer Turnbull,Slider,86.8,38,5
+ Spencer Turnbull,4-Seam Fastball,94.6,17,4
+ Spencer Turnbull,Changeup,86.9,37,18
+ Spencer Turnbull,4-Seam Fastball,93.3,22,2
+ Spencer Turnbull,Curveball,76.8,57,12
+ Spencer Turnbull,Curveball,80.6,57,11
+ Spencer Turnbull,4-Seam Fastball,94.3,21,1
+ Spencer Turnbull,4-Seam Fastball,93,21,1
+ Spencer Turnbull,Sinker,94,24,17
+ Spencer Turnbull,4-Seam Fastball,93.4,19,5
+ Tyler Zuber,4-Seam Fastball,95.4,16,12
+ Tyler Zuber,4-Seam Fastball,95.4,16,12
+ Tyler Zuber,4-Seam Fastball,94.5,15,10
+ Tyler Zuber,4-Seam Fastball,94.8,15,9
+ Tyler Zuber,4-Seam Fastball,92.9,16,10
+ Tyler Zuber,4-Seam Fastball,92.5,19,11
+ Daniel Lynch,4-Seam Fastball,93.3,13,10
+ Daniel Lynch,Changeup,85,24,13
+ Daniel Lynch,Changeup,86.3,21,11
+ Daniel Lynch,4-Seam Fastball,92.9,11,9
+ Daniel Lynch,Changeup,84.4,26,12
+ Daniel Lynch,4-Seam Fastball,92.4,12,7
+ Daniel Lynch,4-Seam Fastball,93.8,15,5
+ Daniel Lynch,4-Seam Fastball,95.7,11,8
+ Daniel Lynch,Slider,87.7,33,2
+ Daniel Lynch,Slider,87,33,0
+ Daniel Lynch,Changeup,86.6,22,15
+ Daniel Lynch,4-Seam Fastball,94,15,5
+ Daniel Lynch,4-Seam Fastball,93.1,16,5
+ Daniel Lynch,4-Seam Fastball,92.4,17,5
+ Daniel Lynch,4-Seam Fastball,94.8,15,6
+ Daniel Lynch,4-Seam Fastball,95.6,12,8
+ Daniel Lynch,Slider,83.8,42,0
+ Daniel Lynch,4-Seam Fastball,95.6,11,4
+ Daniel Lynch,4-Seam Fastball,94.8,15,8
+ Daniel Lynch,Slider,85.5,37,2
+ Daniel Lynch,Slider,86.9,34,1
+ Daniel Lynch,Sinker,94.9,12,11
+ Daniel Lynch,Sinker,92.8,10,12
+ Daniel Lynch,Slider,84.6,36,1
+ Spencer Turnbull,Slider,87.5,36,5
+ Spencer Turnbull,Changeup,88.2,29,21
+ Spencer Turnbull,Sinker,95.4,25,17
+ Spencer Turnbull,Sinker,96.3,21,17
+ Spencer Turnbull,Curveball,82.9,51,10
+ Spencer Turnbull,Sinker,94.9,22,18
+ Spencer Turnbull,4-Seam Fastball,95.6,17,5
+ Spencer Turnbull,4-Seam Fastball,94.6,21,5
+ Spencer Turnbull,Sinker,95,24,19
+ Spencer Turnbull,4-Seam Fastball,94.9,18,3
+ Spencer Turnbull,4-Seam Fastball,93.7,21,4
+ Spencer Turnbull,4-Seam Fastball,96.2,17,2
+ Spencer Turnbull,4-Seam Fastball,94.2,18,6
+ Spencer Turnbull,4-Seam Fastball,95.1,18,8
+ Spencer Turnbull,4-Seam Fastball,93.4,21,2
+ Spencer Turnbull,Slider,85.9,37,7
+ Spencer Turnbull,Sinker,95,18,19
+ Spencer Turnbull,4-Seam Fastball,92.2,15,6
+ Daniel Lynch,4-Seam Fastball,95.2,16,6
+ Daniel Lynch,4-Seam Fastball,94.4,14,8
+ Daniel Lynch,Slider,84.5,38,1
+ Daniel Lynch,4-Seam Fastball,94.1,12,5
+ Daniel Lynch,Changeup,85.7,22,11
+ Daniel Lynch,Slider,84.4,38,1
+ Daniel Lynch,4-Seam Fastball,94.2,16,9
+ Daniel Lynch,4-Seam Fastball,94.2,14,6
+ Daniel Lynch,4-Seam Fastball,95.1,13,6
+ Daniel Lynch,4-Seam Fastball,94.5,12,7
+ Daniel Lynch,4-Seam Fastball,95.6,11,6
+ Daniel Lynch,Changeup,85.9,25,11
+ Daniel Lynch,Slider,84.5,37,1
+ Daniel Lynch,4-Seam Fastball,95.5,15,6
+ Daniel Lynch,Changeup,84.9,28,13
+ Daniel Lynch,4-Seam Fastball,95.1,14,8
+ Daniel Lynch,4-Seam Fastball,97.4,14,10
+ Daniel Lynch,Changeup,84.6,24,13
+ Daniel Lynch,Changeup,85.5,23,13
+ Daniel Lynch,Changeup,84.7,25,14
+ Daniel Lynch,Slider,86.9,35,2
+ Daniel Lynch,4-Seam Fastball,96.4,10,4
+ Daniel Lynch,4-Seam Fastball,93.4,12,7
+ Daniel Lynch,4-Seam Fastball,95.3,13,7
+ Daniel Lynch,4-Seam Fastball,95.9,11,9
+ Daniel Lynch,4-Seam Fastball,96.1,9,4
+ Daniel Lynch,Slider,86.2,36,1
+ Daniel Lynch,4-Seam Fastball,95.5,10,7
+ Daniel Lynch,4-Seam Fastball,94.7,11,6
+ Daniel Lynch,Changeup,83.2,26,14
+ Daniel Lynch,Sinker,93.9,12,12
+ Spencer Turnbull,4-Seam Fastball,94.5,13,9
+ Spencer Turnbull,4-Seam Fastball,95.6,18,7
+ Spencer Turnbull,Slider,86.1,36,3
+ Spencer Turnbull,4-Seam Fastball,94.5,18,3
+ Spencer Turnbull,Curveball,80.5,55,10
+ Spencer Turnbull,4-Seam Fastball,95.8,15,5
+ Spencer Turnbull,4-Seam Fastball,93.9,16,6
+ Spencer Turnbull,Changeup,85.7,34,17
+ Spencer Turnbull,4-Seam Fastball,92.6,22,6
+ Spencer Turnbull,4-Seam Fastball,93.6,21,5
+ Spencer Turnbull,Sinker,94.2,27,15
+ Daniel Lynch,4-Seam Fastball,97.1,10,10
+ Daniel Lynch,4-Seam Fastball,95.1,10,5
+ Daniel Lynch,Slider,85.2,37,2
+ Daniel Lynch,4-Seam Fastball,96.4,8,3
+ Daniel Lynch,4-Seam Fastball,95.4,10,8
+ Daniel Lynch,Slider,82.1,47,2
+ Daniel Lynch,4-Seam Fastball,96.3,12,7
+ Daniel Lynch,Slider,84.8,40,2
+ Daniel Lynch,4-Seam Fastball,96.4,10,8
+ Daniel Lynch,4-Seam Fastball,96.3,8,9
+ Daniel Lynch,4-Seam Fastball,93.2,13,8
+ Spencer Turnbull,4-Seam Fastball,94.8,20,1
+ Spencer Turnbull,4-Seam Fastball,95.6,16,3
+ Spencer Turnbull,Curveball,82.4,51,9
+ Spencer Turnbull,Slider,86.6,38,4
+ Spencer Turnbull,4-Seam Fastball,93.8,22,4
+ Spencer Turnbull,Sinker,94.6,24,17
+ Spencer Turnbull,Changeup,90.3,32,18
+ Spencer Turnbull,Curveball,82.9,52,6
+ Spencer Turnbull,4-Seam Fastball,95.9,14,5
+ Spencer Turnbull,4-Seam Fastball,94.5,18,2
+ Spencer Turnbull,Curveball,80.6,54,11
+ Spencer Turnbull,4-Seam Fastball,94.6,18,7
+ Spencer Turnbull,4-Seam Fastball,93.9,18,3
+ Spencer Turnbull,Sinker,95.9,21,17
+ Spencer Turnbull,4-Seam Fastball,94.7,14,4
+ Spencer Turnbull,Slider,85.6,37,6
+ Spencer Turnbull,4-Seam Fastball,94.3,15,5

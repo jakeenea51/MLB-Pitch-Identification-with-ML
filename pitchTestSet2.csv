@@ -1,0 +1,292 @@
+Pitcher,Pitch Type,Pitch Vel (MPH),VBreak (In.),HBreak (In.)
+ Kenley Jansen,Cutter,92.7,15,7
+ Brusdar Graterol,Sinker,101.2,21,18
+ Brusdar Graterol,Sinker,101.7,17,18
+ Brusdar Graterol,Sinker,100.8,17,17
+ Brusdar Graterol,Sinker,100.8,15,17
+ Brusdar Graterol,Sinker,100.2,20,16
+ Brusdar Graterol,Sinker,100.1,16,16
+ Brusdar Graterol,Sinker,101.4,17,15
+ Brusdar Graterol,Sinker,100.4,18,16
+ Brusdar Graterol,Sinker,99.9,20,15
+ Will Smith,4-Seam Fastball,92.6,15,7
+ Will Smith,Slider,82.9,37,4
+ Will Smith,Slider,82.4,42,6
+ Will Smith,4-Seam Fastball,92.5,14,8
+ Will Smith,4-Seam Fastball,92.6,14,8
+ Will Smith,Curveball,79.7,44,6
+ Will Smith,Slider,82.3,42,4
+ Will Smith,Slider,82.3,36,2
+ Will Smith,Slider,81.4,36,8
+ Will Smith,Slider,81.4,36,6
+ Will Smith,Slider,82.7,38,1
+ Will Smith,4-Seam Fastball,91.2,14,10
+ Julio Urias,4-Seam Fastball,94.1,14,6
+ Julio Urias,Curveball,82,39,15
+ Julio Urias,Curveball,83.8,35,11
+ Julio Urias,Curveball,82.7,41,17
+ Julio Urias,4-Seam Fastball,94,14,2
+ Julio Urias,Curveball,82.6,40,12
+ Julio Urias,Curveball,82.2,40,12
+ Julio Urias,Curveball,81.1,40,13
+ Julio Urias,4-Seam Fastball,93.5,14,5
+ Julio Urias,Curveball,82.4,39,13
+ Julio Urias,4-Seam Fastball,93.9,13,4
+ Julio Urias,Curveball,79.3,45,16
+ Julio Urias,Curveball,79.4,47,20
+ Julio Urias,Curveball,80.4,41,18
+ Chris Martin,Cutter,92.4,24,1
+ Chris Martin,Cutter,92.1,27,1
+ Chris Martin,4-Seam Fastball,96.1,14,11
+ Chris Martin,4-Seam Fastball,96.8,13,11
+ Chris Martin,Cutter,93.4,24,2
+ Chris Martin,Slider,83.8,50,7
+ Chris Martin,Cutter,93,23,1
+ Chris Martin,Cutter,92.3,24,1
+ Chris Martin,Sinker,94.4,13,13
+ Chris Martin,Cutter,92.5,24,2
+ Blake Treinen,Sinker,99.1,20,20
+ Blake Treinen,Sinker,97.2,22,19
+ Blake Treinen,Sinker,96.9,23,18
+ Blake Treinen,Sinker,96.4,24,18
+ Blake Treinen,Sinker,96.6,22,17
+ Blake Treinen,Slider,87.6,38,11
+ Blake Treinen,Slider,84.3,42,11
+ Blake Treinen,Sinker,95.9,24,20
+ Blake Treinen,Sinker,96.6,23,20
+ Luke Jackson,Slider,88.1,40,0
+ Luke Jackson,Slider,88.7,40,2
+ Luke Jackson,Slider,88.9,38,1
+ Luke Jackson,Slider,90,37,5
+ Luke Jackson,4-Seam Fastball,96.9,11,8
+ Luke Jackson,4-Seam Fastball,96.1,10,7
+ Luke Jackson,Curveball,81.3,42,3
+ Luke Jackson,Slider,87.7,40,2
+ Luke Jackson,Slider,88.9,40,3
+ Tyler Matzek,Slider,87.7,36,5
+ Tyler Matzek,4-Seam Fastball,97.7,12,4
+ Tyler Matzek,4-Seam Fastball,96.1,11,4
+ Tyler Matzek,Slider,87.6,37,4
+ Tyler Matzek,Slider,84.9,46,6
+ Tyler Matzek,Slider,84.7,48,5
+ Tyler Matzek,4-Seam Fastball,96.8,11,6
+ Tyler Matzek,4-Seam Fastball,96.2,12,5
+ Tyler Matzek,Slider,85.2,46,5
+ Tyler Matzek,4-Seam Fastball,96.6,11,7
+ Tyler Matzek,4-Seam Fastball,96,11,4
+ Tyler Matzek,4-Seam Fastball,95.4,11,3
+ Tyler Matzek,4-Seam Fastball,95.4,11,3
+ Tyler Matzek,4-Seam Fastball,94.7,10,3
+ Tyler Matzek,4-Seam Fastball,95,12,4
+ Tyler Matzek,Slider,81.3,51,8
+ Joe Kelly,Knuckle Curve,87.6,45,7
+ Joe Kelly,Knuckle Curve,85.9,47,8
+ Joe Kelly,Knuckle Curve,86.7,44,7
+ Joe Kelly,Knuckle Curve,89.1,44,8
+ Joe Kelly,Knuckle Curve,88,41,6
+ Joe Kelly,Changeup,87.8,29,17
+ Joe Kelly,Sinker,96.7,21,16
+ Joe Kelly,Knuckle Curve,88.7,43,7
+ Joe Kelly,Knuckle Curve,90.8,36,2
+ Joe Kelly,Knuckle Curve,88.7,39,4
+ Joe Kelly,Knuckle Curve,89,39,3
+ Joe Kelly,Sinker,96.4,17,16
+ Tyler Matzek,Slider,84.6,47,5
+ Tyler Matzek,4-Seam Fastball,97.2,13,6
+ Tyler Matzek,Slider,85,46,4
+ Tyler Matzek,Slider,85.9,42,2
+ Tyler Matzek,4-Seam Fastball,95.4,11,5
+ Jacob Webb,Changeup,82.9,30,18
+ Jacob Webb,Changeup,84.6,29,19
+ Jacob Webb,Changeup,83.8,29,17
+ Jacob Webb,Changeup,83.4,29,19
+ Jacob Webb,Changeup,84.2,27,17
+ Jacob Webb,4-Seam Fastball,92.9,16,13
+ Jacob Webb,Changeup,84.3,28,19
+ Jacob Webb,4-Seam Fastball,93.8,13,14
+ Jacob Webb,Changeup,83.6,32,16
+ Jacob Webb,4-Seam Fastball,92.5,17,11
+ Jacob Webb,Changeup,84.3,30,19
+ Jacob Webb,Changeup,84.6,28,16
+ Jacob Webb,4-Seam Fastball,93.1,15,10
+ Jacob Webb,Changeup,84.6,31,17
+ Jacob Webb,4-Seam Fastball,93.9,14,12
+ Jacob Webb,4-Seam Fastball,93.3,13,11
+ Jacob Webb,4-Seam Fastball,93.9,15,12
+ Jacob Webb,4-Seam Fastball,93.6,13,12
+ Alex Vesia,4-Seam Fastball,95.6,10,6
+ Alex Vesia,4-Seam Fastball,95.1,10,6
+ Alex Vesia,4-Seam Fastball,96.1,8,5
+ Alex Vesia,Slider,87.1,28,4
+ Alex Vesia,4-Seam Fastball,94.6,11,7
+ Alex Vesia,4-Seam Fastball,93.9,9,8
+ Alex Vesia,Slider,85.9,30,3
+ Alex Vesia,4-Seam Fastball,94.7,13,7
+ Alex Vesia,4-Seam Fastball,94.1,11,5
+ Alex Vesia,4-Seam Fastball,93.8,14,5
+ Alex Vesia,Slider,86.1,29,5
+ Alex Vesia,4-Seam Fastball,94.1,13,8
+ Alex Vesia,4-Seam Fastball,94.8,11,8
+ Alex Vesia,Slider,86.7,29,7
+ Alex Vesia,4-Seam Fastball,93.9,12,9
+ Alex Vesia,Slider,85.6,30,7
+ Alex Vesia,4-Seam Fastball,93.5,12,9
+ Max Scherzer,Slider,84.6,35,1
+ Max Scherzer,Slider,84.9,32,0
+ Max Scherzer,Slider,83.3,35,2
+ Max Scherzer,4-Seam Fastball,92.7,16,13
+ Max Scherzer,4-Seam Fastball,91.8,17,11
+ A.J. Minter,4-Seam Fastball,96.7,12,9
+ A.J. Minter,Cutter,89.8,30,5
+ A.J. Minter,Cutter,90.6,29,6
+ A.J. Minter,Cutter,88.9,27,4
+ A.J. Minter,4-Seam Fastball,96.3,12,7
+ A.J. Minter,Cutter,87,32,7
+ A.J. Minter,Cutter,88.6,28,5
+ A.J. Minter,Cutter,86.7,31,6
+ A.J. Minter,4-Seam Fastball,96,11,5
+ A.J. Minter,Cutter,87.7,33,5
+ A.J. Minter,Cutter,87.5,33,4
+ A.J. Minter,Cutter,87.8,28,3
+ A.J. Minter,4-Seam Fastball,95.3,13,3
+ A.J. Minter,Cutter,87.7,34,6
+ A.J. Minter,Cutter,87.4,33,5
+ A.J. Minter,4-Seam Fastball,95.2,15,7
+ A.J. Minter,4-Seam Fastball,95.6,13,8
+ A.J. Minter,4-Seam Fastball,95.2,15,6
+ A.J. Minter,4-Seam Fastball,95.4,12,5
+ Max Scherzer,Slider,85.4,32,1
+ Max Scherzer,4-Seam Fastball,93.6,14,12
+ Max Scherzer,4-Seam Fastball,93.3,16,13
+ Max Scherzer,Slider,85.4,29,2
+ Max Scherzer,Slider,86.7,32,0
+ Max Scherzer,Changeup,83,36,18
+ Max Scherzer,Changeup,84.2,33,19
+ Max Scherzer,4-Seam Fastball,94.1,16,11
+ Max Scherzer,4-Seam Fastball,93,17,12
+ Max Scherzer,Curveball,76.5,55,11
+ Max Scherzer,Cutter,88.4,26,3
+ Max Scherzer,Slider,85.5,32,2
+ Max Scherzer,Slider,84.4,32,3
+ Max Scherzer,4-Seam Fastball,94,16,12
+ Max Scherzer,Curveball,75.9,59,12
+ Max Scherzer,4-Seam Fastball,93.6,15,11
+ Max Scherzer,Changeup,85.4,36,20
+ Max Scherzer,Curveball,76.4,54,15
+ Max Scherzer,4-Seam Fastball,91.8,16,13
+ Jesse Chavez,Sinker,92,25,18
+ Jesse Chavez,Cutter,89.3,20,2
+ Jesse Chavez,Sinker,92.2,24,19
+ Jesse Chavez,Sinker,92.1,27,17
+ Jesse Chavez,Cutter,89.7,21,3
+ Jesse Chavez,Cutter,89.7,21,2
+ Max Scherzer,Slider,87.6,29,1
+ Max Scherzer,4-Seam Fastball,94.5,14,10
+ Max Scherzer,Cutter,89.6,26,3
+ Max Scherzer,Slider,87.9,28,0
+ Max Scherzer,Cutter,90,27,3
+ Max Scherzer,Changeup,84.5,34,17
+ Max Scherzer,Changeup,83.5,38,18
+ Max Scherzer,4-Seam Fastball,94.1,14,12
+ Max Scherzer,Cutter,89.7,25,3
+ Max Scherzer,Changeup,83.3,38,17
+ Max Scherzer,4-Seam Fastball,94.5,13,9
+ Max Scherzer,4-Seam Fastball,94.1,13,8
+ Max Scherzer,4-Seam Fastball,93.7,15,12
+ Max Scherzer,Slider,86.7,31,1
+ Max Scherzer,Changeup,84.6,33,17
+ Max Scherzer,4-Seam Fastball,93.3,15,13
+ Max Scherzer,Slider,85.3,30,0
+ Max Scherzer,Changeup,83.7,34,18
+ Max Scherzer,4-Seam Fastball,92.5,16,14
+ Ian Anderson,Changeup,87.8,28,10
+ Ian Anderson,Curveball,79,49,1
+ Ian Anderson,4-Seam Fastball,92.9,16,1
+ Ian Anderson,4-Seam Fastball,92.3,15,4
+ Ian Anderson,4-Seam Fastball,92.9,11,8
+ Ian Anderson,4-Seam Fastball,93.4,11,7
+ Ian Anderson,Curveball,79.5,47,2
+ Ian Anderson,Curveball,80.2,49,2
+ Ian Anderson,4-Seam Fastball,92.1,16,8
+ Ian Anderson,4-Seam Fastball,92.6,16,8
+ Ian Anderson,Changeup,87.9,24,10
+ Ian Anderson,Curveball,81.1,44,0
+ Ian Anderson,4-Seam Fastball,93.6,11,6
+ Ian Anderson,4-Seam Fastball,93.4,15,11
+ Ian Anderson,Changeup,86.4,20,9
+ Ian Anderson,Changeup,87.4,24,12
+ Ian Anderson,4-Seam Fastball,92.5,15,8
+ Max Scherzer,Cutter,90.6,26,2
+ Max Scherzer,Curveball,77.2,58,12
+ Max Scherzer,4-Seam Fastball,94.3,14,11
+ Max Scherzer,Slider,84.7,33,2
+ Max Scherzer,4-Seam Fastball,93,15,10
+ Max Scherzer,Slider,85.4,30,4
+ Max Scherzer,4-Seam Fastball,95.2,15,11
+ Max Scherzer,Curveball,77.9,56,13
+ Max Scherzer,Changeup,87.7,30,18
+ Max Scherzer,Changeup,85.8,35,18
+ Max Scherzer,Changeup,84.9,33,17
+ Max Scherzer,Cutter,90.3,24,1
+ Max Scherzer,4-Seam Fastball,94.5,14,12
+ Max Scherzer,Curveball,76.5,55,11
+ Max Scherzer,Slider,84.9,35,0
+ Max Scherzer,Changeup,83.7,36,18
+ Max Scherzer,4-Seam Fastball,93.8,16,14
+ Max Scherzer,Slider,85.5,32,2
+ Max Scherzer,4-Seam Fastball,94.1,12,12
+ Ian Anderson,4-Seam Fastball,91.5,16,5
+ Ian Anderson,4-Seam Fastball,92.6,15,7
+ Ian Anderson,Changeup,87.1,22,11
+ Ian Anderson,Curveball,79.9,46,2
+ Ian Anderson,Curveball,79.8,45,0
+ Ian Anderson,4-Seam Fastball,92.6,15,8
+ Ian Anderson,4-Seam Fastball,93.1,15,9
+ Ian Anderson,4-Seam Fastball,92.5,16,5
+ Ian Anderson,Changeup,86,26,10
+ Ian Anderson,4-Seam Fastball,92.2,13,5
+ Max Scherzer,Changeup,85.1,35,17
+ Max Scherzer,Slider,87.2,26,2
+ Max Scherzer,Curveball,77.1,53,11
+ Max Scherzer,4-Seam Fastball,93.9,16,12
+ Max Scherzer,Cutter,90.3,24,3
+ Max Scherzer,Slider,88.4,29,0
+ Max Scherzer,4-Seam Fastball,94.4,15,13
+ Max Scherzer,Changeup,85,35,18
+ Max Scherzer,Changeup,84,38,16
+ Max Scherzer,Changeup,83.5,36,15
+ Max Scherzer,Cutter,90.5,24,5
+ Max Scherzer,4-Seam Fastball,94.4,16,12
+ Max Scherzer,4-Seam Fastball,93.6,13,13
+ Max Scherzer,4-Seam Fastball,93.3,16,14
+ Max Scherzer,Cutter,89.5,23,6
+ Max Scherzer,4-Seam Fastball,92.5,15,11
+ Max Scherzer,4-Seam Fastball,91.8,17,10
+ Ian Anderson,Changeup,87.4,24,11
+ Ian Anderson,Changeup,86.6,25,9
+ Ian Anderson,4-Seam Fastball,94.4,14,6
+ Ian Anderson,Changeup,86.6,24,11
+ Ian Anderson,4-Seam Fastball,92,15,7
+ Ian Anderson,Changeup,85.8,27,10
+ Ian Anderson,4-Seam Fastball,93,16,9
+ Ian Anderson,4-Seam Fastball,92.7,16,7
+ Ian Anderson,Changeup,87.4,26,12
+ Ian Anderson,4-Seam Fastball,93.5,17,8
+ Ian Anderson,Changeup,86.5,27,11
+ Ian Anderson,Changeup,86.8,28,13
+ Ian Anderson,4-Seam Fastball,91.8,14,5
+ Ian Anderson,4-Seam Fastball,93.1,15,6
+ Ian Anderson,4-Seam Fastball,93,15,4
+ Ian Anderson,Curveball,81.6,43,1
+ Ian Anderson,Curveball,80.4,47,1
+ Ian Anderson,Changeup,88,28,13
+ Ian Anderson,Changeup,87.7,25,10
+ Ian Anderson,4-Seam Fastball,94.1,12,9
+ Ian Anderson,4-Seam Fastball,94.2,15,7
+ Ian Anderson,4-Seam Fastball,93.9,14,7
+ Ian Anderson,Curveball,81,41,0
+ Ian Anderson,4-Seam Fastball,93.5,15,8
+ Ian Anderson,Changeup,88.2,24,11
+ Ian Anderson,Changeup,87.5,27,12
+ Ian Anderson,4-Seam Fastball,93.4,14,5
+ Ian Anderson,4-Seam Fastball,93.5,14,8
