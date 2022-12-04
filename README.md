@@ -1,6 +1,6 @@
 # MLB Pitch Identification with ML
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakeenea51-mlb-pitch-identifica-pitch-identification-app-ykdusi.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mlbpitch.streamlit.app/)
 
 This project demonstrates one of the many uses of machine learning in baseball by creating a machine learning model capable of identifying which pitch is being thrown when given the pitcher, velocity, and movement of the pitch.
 
@@ -16,7 +16,7 @@ The notebook file walks through the creation of both a general and pitcher-speci
 
 The machine learning model can be interacted with via a Streamlit web app dashboard. A user can select either the general or pitcher-specific model and by entering the pitcher (*pitcher-specific model only*), pitch velocity and movement, the model will identify and display what pitch was thrown.
 
-Check out the web app [here](https://jakeenea51-mlb-pitch-identifica-pitch-identification-app-ykdusi.streamlit.app/).
+Check out the web app [here](https://mlbpitch.streamlit.app/).
 
 ### General Model Demo
 
