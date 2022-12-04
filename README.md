@@ -14,4 +14,4 @@ The notebook file walks through the creation of both a general and pitcher-speci
 
 The machine learning model can be interacted with via a Streamlit web app dashboard. A user can select either the general or pitcher-specific model and by entering the pitcher (*pitcher-specific model only*), pitch velocity and movement, the model will identify and display what pitch was thrown. 
 
-Check out the web app [here]().
+Check out the web app [here](https://jakeenea51-mlb-pitch-identifica-pitch-identification-app-ykdusi.streamlit.app/).
