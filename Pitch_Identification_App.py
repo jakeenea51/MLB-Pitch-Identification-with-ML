@@ -15,22 +15,16 @@ from PIL import Image
 
 # create the ML model
 model = SVC()
-prediction = []
-accuracy = 88
-
-# take in train data
-df = pd.read_csv('web app/pitchTrainSet.csv')
-
-# combine first and last names
-df['last_name'] = df['first_name'] + ' ' + df['last_name']
-df = df.rename(columns = {'last_name':'name'})
-df = df.rename(columns = {'avg_speed':'Pitch Vel (MPH)'})
-df = df.rename(columns = {'pitcher_break_z':'VBreak (In.)'})
-df = df.rename(columns = {'pitcher_break_x':'HBreak (In.)'})
-df = df.drop(columns = 'first_name')
 
 # fix pitch names to match training set
-def fixPitchNames(df):
+def reformatTrainSet(df):
+    # combine first and last names
+    df['last_name'] = df['first_name'] + ' ' + df['last_name']
+    df = df.rename(columns = {'last_name':'name'})
+    df = df.rename(columns = {'avg_speed':'Pitch Vel (MPH)'})
+    df = df.rename(columns = {'pitcher_break_z':'VBreak (In.)'})
+    df = df.rename(columns = {'pitcher_break_x':'HBreak (In.)'})
+    df = df.drop(columns = 'first_name')
     for i in df:
         df = df.replace(to_replace = '4-Seam Fastball', value = '4-Seamer')
         df = df.replace(to_replace = 'Knuckle Curve', value = 'Curveball')
@@ -39,6 +33,11 @@ def fixPitchNames(df):
 
 # general ML model
 def generalModel():
+
+    # take in train data
+    df = pd.read_csv('pitchTrainSet2021.csv')
+    df = reformatTrainSet(df)
+    
     # prepare train data
     df_train = df.drop(columns = ['name', 'pitcher_id'])
 
@@ -64,6 +63,15 @@ def generalModel():
 
 # pitcher-specific ML model
 def pitcherSpecificModel():
+
+    # take in train data
+    if season == 2021:
+        df = pd.read_csv('pitchTrainSet2021.csv')
+        df = reformatTrainSet(df)
+    elif season == 2022:
+        df = pd.read_csv('pitchTrainSet2022.csv')
+        df = reformatTrainSet(df)
+
     # name input box
     nameInput = st.text_input("Enter a pitcher's name")
 
@@ -117,11 +125,11 @@ def pitcherSpecificModel():
 ############################################################################
 
 # setup page configuration settings
-icon = "web app/baseball_icon.png"
+icon = "baseball_icon.png"
 st.set_page_config(page_title="MLB Pitch Identifier", page_icon=icon, layout="centered")
 
 # header
-mlbLogo = Image.open('web app/mlb.png')
+mlbLogo = Image.open('mlb.png')
 a, b = st.columns([1, 8])
 a.image(mlbLogo)
 b.title("MLB Pitch Identifier")
@@ -134,8 +142,9 @@ if modelType == "General":
     st.subheader("Accuracy: 88%")
 elif modelType == "Pitcher-Specific":
     st.subheader("Accuracy: 97%")
+    season = st.selectbox("Select season", [2021, 2022])
     st.write("Notes:")
-    st.write(" - Only pitchers from 2021")
+    st.write(" - Only pitchers from season selected with enough sample size")
     st.write(" - Case sensitive")
     st.write(" - Omit any special characters or spaces in first or last name of pitcher (ex. Lance McCullersJr.)")
 st.write("_________________________________________________________")
