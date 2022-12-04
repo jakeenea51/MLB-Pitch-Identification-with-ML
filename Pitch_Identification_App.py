@@ -35,7 +35,7 @@ def reformatTrainSet(df):
 def generalModel():
 
     # take in train data
-    df = pd.read_csv('pitchTrainSet2021.csv')
+    df = pd.read_csv('web app/pitchTrainSet2021.csv')
     df = reformatTrainSet(df)
     
     # prepare train data
@@ -66,10 +66,10 @@ def pitcherSpecificModel():
 
     # take in train data
     if season == 2021:
-        df = pd.read_csv('pitchTrainSet2021.csv')
+        df = pd.read_csv('web app/pitchTrainSet2021.csv')
         df = reformatTrainSet(df)
     elif season == 2022:
-        df = pd.read_csv('pitchTrainSet2022.csv')
+        df = pd.read_csv('web app/pitchTrainSet2022.csv')
         df = reformatTrainSet(df)
 
     # name input box
@@ -125,11 +125,11 @@ def pitcherSpecificModel():
 ############################################################################
 
 # setup page configuration settings
-icon = "baseball_icon.png"
+icon = "web app/baseball_icon.png"
 st.set_page_config(page_title="MLB Pitch Identifier", page_icon=icon, layout="centered")
 
 # header
-mlbLogo = Image.open('mlb.png')
+mlbLogo = Image.open('web app/mlb.png')
 a, b = st.columns([1, 8])
 a.image(mlbLogo)
 b.title("MLB Pitch Identifier")
