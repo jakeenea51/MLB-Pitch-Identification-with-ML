@@ -19,7 +19,7 @@ prediction = []
 accuracy = 88
 
 # take in train data
-df = pd.read_csv('pitchTrainSet.csv')
+df = pd.read_csv('web app/pitchTrainSet.csv')
 
 # combine first and last names
 df['last_name'] = df['first_name'] + ' ' + df['last_name']
@@ -117,11 +117,11 @@ def pitcherSpecificModel():
 ############################################################################
 
 # setup page configuration settings
-icon = "baseball_icon.png"
+icon = "web app/baseball_icon.png"
 st.set_page_config(page_title="MLB Pitch Identifier", page_icon=icon, layout="centered")
 
 # header
-mlbLogo = Image.open('mlb.png')
+mlbLogo = Image.open('web app/mlb.png')
 a, b = st.columns([1, 8])
 a.image(mlbLogo)
 b.title("MLB Pitch Identifier")
